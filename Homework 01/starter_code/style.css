@@ -1,0 +1,12 @@
+img {
+    float: right;
+}
+
+header, section {
+    width: 75%;
+    margin: auto;
+}
+
+/* * {
+    border: red 1px solid;
+} */
